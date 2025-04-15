@@ -3,7 +3,7 @@ class A:
         self.name=name
         self.age=age
     def display(self):
-        print(f"MY name is {self.name} and i am {self.age} years age")
+        print(f"MY name is {self.name} and i am {self.age} years ffdfdd")
 o=A("printon",23)
 o.display()
 print(getattr(o,"salary","NF"))
